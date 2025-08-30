@@ -109,7 +109,7 @@ Deploying ML projects with Streamlit Cloud
 ✨ Author
 
 👤 Md Faizal Khan
-📧 Email: your-email@example.com
-💼 LinkedIn
+📧 Email: faizal04nadeem@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/md-faizal-nadeem-422a45275
 
 ---
