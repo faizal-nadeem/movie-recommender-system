@@ -4,4 +4,4 @@ scikit-learn
 requests
 numpy
 pickle
-nltk (NLP)
+nltk
